@@ -1,0 +1,40 @@
+{
+  "name": "vit-hiring-2023-phase-1-nothari",
+  "version": "1.0.0",
+  "description": "[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-c66648af7eb3fe8bc4f294546bfd86ef473780cde1dea487d3c4ff354943c9ae.svg)](https://classroom.github.com/online_ide?assignment_repo_id=10357775&assignment_repo_type=AssignmentRepo)\r <!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->\r <a name=\"readme-top\"></a>\r <!--\r *** Thanks for checking out the Best-README-Template. If you have a suggestion\r *** that would make this better, please fork the repo and create a pull request\r *** or simply open an issue with the tag \"enhancement\".\r *** Don't forget to give the project a star!\r *** Thanks again! Now go create something AMAZING! :D\r -->",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dyte-submissions/vit-hiring-2023-phase-1-NotHari.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dyte-submissions/vit-hiring-2023-phase-1-NotHari/issues"
+  },
+  "homepage": "https://github.com/dyte-submissions/vit-hiring-2023-phase-1-NotHari#readme",
+  "dependencies": {
+    "bcrypt": "^5.1.0",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^9.0.0",
+    "moment": "^2.29.4",
+    "moment-range": "^4.0.2",
+    "pg": "^8.7.1"
+  },
+  "devDependencies": {
+    "@types/dotenv": "^6.1.1",
+    "@types/express": "^4.17.13",
+    "@types/jsonwebtoken": "^9.0.1",
+    "@types/moment": "^2.13.0",
+    "@types/moment-range": "^4.0.0",
+    "@types/node": "^16.7.1",
+    "@types/pg": "^8.6.1",
+    "typescript": "^4.3.5"
+  }
+}
