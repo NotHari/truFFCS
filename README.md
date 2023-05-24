@@ -2,7 +2,7 @@
 <br />
 <div align="center">
   <a>
-    <img src="images\logo.png" alt="Logo" width="200" height="200">
+    <img src="https://github.com/dyte-submissions/vit-hiring-2023-phase-1-NotHari/blob/master/images/logo.png" alt="Logo" width="200" height="200">
   </a>
 
   <h1 align="center">truFFCS</h1>
@@ -22,8 +22,6 @@ Fully Flexible Credit System commonly referred to as FFCS is a way in which stud
 truFFCS is a backend repository designed to work for the conduction of FFCS allowing them to register for courses, viewing faculties that teach various courses and managing clashes while registering for these courses.
 
 Additionally, truFFCS also contains admin routes to perform administrative actions like populating the database, creating student logins, etc.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Problem Statement
 
@@ -88,8 +86,6 @@ _This section contains the instructions to clone the repository and have truFFCS
    PORT = 5000
    ```
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 <!-- USAGE EXAMPLES -->
 
 ## Usage
@@ -126,8 +122,6 @@ The below image shows the ER Diagram describing the various entities and the rel
 - Course: Contains id of the course, name of the course, course type, ids of faculties teaching the course and id of all the slots that the course is being offered in.
 - Registered Courses: Contains the student id, slot ids of all the registered courses, the course id of registered courses and the faculty id under whom the student registered for a course.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 <!-- LICENSE -->
 
 ## License
@@ -139,7 +133,5 @@ Distributed under the MIT License.
 ## Contact
 
 Harikrishnan Nair - [LinkedIn](https://www.linkedin.com/in/harikrishnan-nair-04a4b219b/)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <p align="center">Made with ❤ by Harikrishnan Nair</p>
