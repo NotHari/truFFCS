@@ -1,6 +1,0 @@
-{
-    "compilerOptions": {
-      // ... other stuff
-      "useUnknownInCatchVariables": false
-    }
-  }
