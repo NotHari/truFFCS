@@ -2,7 +2,7 @@
 <br />
 <div align="center">
   <a>
-    <img src="https://github.com/dyte-submissions/vit-hiring-2023-phase-1-NotHari/blob/master/images/logo.png" alt="Logo" width="200" height="200">
+    <img src="images/logo.png" alt="Logo" width="200" height="200">
   </a>
 
   <h1 align="center">truFFCS</h1>
@@ -113,7 +113,7 @@ ADMIN_JWT_TOKEN = eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyaWQiOiIxIiwidXNlc
 ### Schema
 
 The below image shows the ER Diagram describing the various entities and the relations between these entities.
-![image](https://github.com/dyte-submissions/vit-hiring-2023-phase-1-NotHari/blob/master/images/ER.jpg)
+![image](images/ER.jpg)
 
 - Admin: Holds the admin information namely id, name and password.
 - Faculty: Holds the id and name.
